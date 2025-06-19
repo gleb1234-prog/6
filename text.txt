@@ -1,0 +1,7 @@
+src/
+├── store/
+│   └── index.js       # Хранилище Vuex
+├── components/
+│   ├── TodoList.vue   # Список задач
+│   └── TodoForm.vue   # Форма добавления
+└── App.vue
